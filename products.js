@@ -1,13 +1,13 @@
-// Automatisch erzeugt aus geschenkefinder_produktliste.xlsx
+// Automatisch erzeugt aus geschenkefinder_produktliste.xlsx (Fündig)
 // NICHT von Hand bearbeiten - stattdessen die Excel aendern und excel_zu_products.py neu ausfuehren.
 // Partner-Tag: fuendig-21  |  Produkte: 67
 const PRODUCTS = [
   {
     "emoji": "🎮",
-    "title": "Wireless Controller (Xbox/PS-kompatibel)",
+    "title": "Xbox Wireless Controller (Pulse Red)",
     "tag": "Gaming",
-    "priceMin": 30,
-    "priceLabel": "30-45",
+    "priceMin": 55,
+    "priceLabel": "55-65",
     "age": [
       "teen",
       "jung"
@@ -21,7 +21,7 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0F2N5WHT7?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
@@ -46,10 +46,10 @@ const PRODUCTS = [
   },
   {
     "emoji": "🎮",
-    "title": "Mauspad XXL",
+    "title": "SUBSONIC Iron Maiden XXL-Mauspad (90×40 cm)",
     "tag": "Gaming",
-    "priceMin": 10,
-    "priceLabel": "10-20",
+    "priceMin": 15,
+    "priceLabel": "15-20",
     "age": [
       "teen",
       "jung"
@@ -63,14 +63,14 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0BJ7C8R4P?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
-    "title": "Gaming-Stuhl-Kissen-Set",
+    "title": "MAZZINI Lendenkissen Memory Foam (Gaming-/Bürostuhl)",
     "tag": "Gaming",
-    "priceMin": 20,
-    "priceLabel": "20-35",
+    "priceMin": 25,
+    "priceLabel": "25-35",
     "age": [
       "jung",
       "erwachsen"
@@ -84,14 +84,14 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0DFJCRBNP?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
-    "title": "Nintendo Switch Spiel (Bestseller)",
+    "title": "Mario Kart 8 Deluxe (Nintendo Switch)",
     "tag": "Gaming",
-    "priceMin": 40,
-    "priceLabel": "40-60",
+    "priceMin": 45,
+    "priceLabel": "45-50",
     "age": [
       "kind",
       "teen"
@@ -105,7 +105,7 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B01N4ND0F9?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
@@ -130,7 +130,7 @@ const PRODUCTS = [
   },
   {
     "emoji": "🎮",
-    "title": "Controller-Ladestation",
+    "title": "Controller-Ladestation 2×2550 mAh (Xbox)",
     "tag": "Gaming",
     "priceMin": 15,
     "priceLabel": "15-25",
@@ -147,14 +147,14 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0B95YB52C?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
-    "title": "Gaming-Maus",
+    "title": "Razer Viper Gaming-Maus",
     "tag": "Gaming",
-    "priceMin": 20,
-    "priceLabel": "20-50",
+    "priceMin": 40,
+    "priceLabel": "40-70",
     "age": [
       "teen",
       "jung"
@@ -168,7 +168,7 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B08LYN2JHJ?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
