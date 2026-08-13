@@ -1,4 +1,4 @@
-// Automatisch erzeugt aus geschenkefinder_produktliste.xlsx (Fündig)
+// Automatisch erzeugt aus geschenkefinder_produktliste.xlsx
 // NICHT von Hand bearbeiten - stattdessen die Excel aendern und excel_zu_products.py neu ausfuehren.
 // Partner-Tag: fuendig-21  |  Produkte: 67
 const PRODUCTS = [
@@ -172,10 +172,10 @@ const PRODUCTS = [
   },
   {
     "emoji": "⚽",
-    "title": "Fußball Trainingsqualität",
+    "title": "Fußball Größe 5 (PU-Leder)",
     "tag": "Sport",
-    "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceMin": 20,
+    "priceLabel": "20-30",
     "age": [
       "kind",
       "teen",
@@ -190,14 +190,14 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0G7RVF81B?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Yoga-Matte Premium",
+    "title": "Gaiam Yogamatte Premium 6 mm",
     "tag": "Sport",
-    "priceMin": 20,
-    "priceLabel": "20-40",
+    "priceMin": 40,
+    "priceLabel": "40-55",
     "age": [
       "jung",
       "erwachsen"
@@ -211,14 +211,14 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B093KCFPVH?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Widerstandsbänder-Set",
+    "title": "Widerstandsbänder-Set (Fitness)",
     "tag": "Sport",
-    "priceMin": 12,
-    "priceLabel": "12-20",
+    "priceMin": 45,
+    "priceLabel": "45-55",
     "age": [
       "teen",
       "jung",
@@ -233,14 +233,14 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0CMHL2S9Z?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Trinkflasche mit Zeitmarkierung",
+    "title": "720°DGREE Trinkflasche 1L mit Zeitmarkierung",
     "tag": "Sport",
-    "priceMin": 10,
-    "priceLabel": "10-15",
+    "priceMin": 15,
+    "priceLabel": "15-20",
     "age": [
       "teen",
       "jung"
@@ -254,14 +254,14 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0BZ5JCD5R?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Fitness-Tracker Armband",
+    "title": "Fitness-Smartwatch mit Wechselarmbändern",
     "tag": "Sport",
     "priceMin": 30,
-    "priceLabel": "30-60",
+    "priceLabel": "30-45",
     "age": [
       "jung",
       "erwachsen"
@@ -275,14 +275,14 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0H5W5R9G2?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Boxsack Freistehend",
+    "title": "RDX Freistehender Standboxsack",
     "tag": "Sport",
-    "priceMin": 60,
-    "priceLabel": "60-120",
+    "priceMin": 150,
+    "priceLabel": "150-190",
     "age": [
       "jung",
       "erwachsen"
@@ -296,11 +296,11 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0BT4W4BMB?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Lauf-Armband fürs Handy",
+    "title": "Laufarmband / Handyhalterung Sport",
     "tag": "Sport",
     "priceMin": 10,
     "priceLabel": "10-18",
@@ -317,11 +317,11 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0CFPZ1D6S?tag=fuendig-21"
   },
   {
     "emoji": "⚽",
-    "title": "Springseil, verstellbar",
+    "title": "Springseil verstellbar (Speed Rope)",
     "tag": "Sport",
     "priceMin": 8,
     "priceLabel": "8-15",
@@ -339,14 +339,14 @@ const PRODUCTS = [
     "tags": [
       "sport"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0CP3MHM3X?tag=fuendig-21"
   },
   {
     "emoji": "🍳",
-    "title": "Gusseisen-Pfanne",
+    "title": "Lodge Gusseisen-Pfanne",
     "tag": "Kochen",
-    "priceMin": 40,
-    "priceLabel": "40-70",
+    "priceMin": 55,
+    "priceLabel": "55-70",
     "age": [
       "jung",
       "erwachsen"
@@ -360,14 +360,100 @@ const PRODUCTS = [
     "tags": [
       "kochen"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B00G2XGC88?tag=fuendig-21"
   },
   {
     "emoji": "🍳",
-    "title": "Messerset mit Block",
+    "title": "KitchenAid Gourmet Messerblock-Set (6-tlg.)",
+    "tag": "Kochen",
+    "priceMin": 50,
+    "priceLabel": "50-90",
+    "age": [
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "kochen"
+    ],
+    "url": "https://www.amazon.de/dp/B0B16J9DL5?tag=fuendig-21"
+  },
+  {
+    "emoji": "🍳",
+    "title": "„Gönn dir!\" Kochbuch für Teenager (77 Rezepte)",
+    "tag": "Kochen",
+    "priceMin": 15,
+    "priceLabel": "15-18",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "kochen"
+    ],
+    "url": "https://www.amazon.de/dp/3912227004?tag=fuendig-21"
+  },
+  {
+    "emoji": "🍳",
+    "title": "mDesign drehbares Gewürzregal",
+    "tag": "Kochen",
+    "priceMin": 15,
+    "priceLabel": "15-25",
+    "age": [
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "kochen"
+    ],
+    "url": "https://www.amazon.de/dp/B09M95TB88?tag=fuendig-21"
+  },
+  {
+    "emoji": "🍳",
+    "title": "Sushi Maki Komplett-Set",
     "tag": "Kochen",
     "priceMin": 35,
-    "priceLabel": "35-90",
+    "priceLabel": "35-40",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "kochen"
+    ],
+    "url": "https://www.amazon.de/dp/B09TQ5DDWR?tag=fuendig-21"
+  },
+  {
+    "emoji": "🍳",
+    "title": "PARIS RHÔNE Milchaufschäumer 4-in-1",
+    "tag": "Kochen",
+    "priceMin": 30,
+    "priceLabel": "30-35",
     "age": [
       "jung",
       "erwachsen"
@@ -381,12 +467,305 @@ const PRODUCTS = [
     "tags": [
       "kochen"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0H413X4RX?tag=fuendig-21"
   },
   {
     "emoji": "🍳",
-    "title": "Kochbuch Streetfood der Welt",
+    "title": "Cloer 1621 Waffeleisen (Herzwaffeln)",
     "tag": "Kochen",
+    "priceMin": 30,
+    "priceLabel": "30-35",
+    "age": [
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "kochen"
+    ],
+    "url": "https://www.amazon.de/dp/B000094G32?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "New Era Basecap (verstellbar)",
+    "tag": "Mode",
+    "priceMin": 25,
+    "priceLabel": "25-30",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B0CT7MQ218?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "PUMA Retro-Sneaker (unisex)",
+    "tag": "Mode",
+    "priceMin": 45,
+    "priceLabel": "45-70",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B0DK9BCRJR?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "Mactso Umhängetasche Canvas",
+    "tag": "Mode",
+    "priceMin": 30,
+    "priceLabel": "30-35",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B091Q1SVKV?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "Purelei Statement-Halskette",
+    "tag": "Mode",
+    "priceMin": 25,
+    "priceLabel": "25-30",
+    "age": [
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "w"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B07XBTKP3G?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "LINDENMANN Ledergürtel (Herren)",
+    "tag": "Mode",
+    "priceMin": 20,
+    "priceLabel": "20-30",
+    "age": [
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "m"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B0DQ2GQ8N2?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "Harry Potter Oversize-Hoodie",
+    "tag": "Mode",
+    "priceMin": 30,
+    "priceLabel": "30-40",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B0B5L42SY3?tag=fuendig-21"
+  },
+  {
+    "emoji": "👕",
+    "title": "FEISEDY Retro-Sonnenbrille",
+    "tag": "Mode",
+    "priceMin": 15,
+    "priceLabel": "15-25",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B0FGCW1XT7?tag=fuendig-21"
+  },
+  {
+    "emoji": "📚",
+    "title": "Hunger Games – Trilogie Box-Set",
+    "tag": "Lesen",
+    "priceMin": 50,
+    "priceLabel": "50-60",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "lesen"
+    ],
+    "url": "https://www.amazon.de/dp/0545265355?tag=fuendig-21"
+  },
+  {
+    "emoji": "📚",
+    "title": "LEUCHTTURM1917 Notizbuch A5 (Hardcover)",
+    "tag": "Lesen",
+    "priceMin": 20,
+    "priceLabel": "20-25",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "lesen"
+    ],
+    "url": "https://www.amazon.de/dp/B0BK9TK7C5?tag=fuendig-21"
+  },
+  {
+    "emoji": "📚",
+    "title": "Amazon Kindle E-Reader (Einsteiger)",
+    "tag": "Lesen",
+    "priceMin": 85,
+    "priceLabel": "85-90",
+    "age": [
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "lesen"
+    ],
+    "url": "https://www.amazon.de/dp/B0CP31STG6?tag=fuendig-21"
+  },
+  {
+    "emoji": "📚",
+    "title": "Drachen Metall-Lesezeichen (2er Set)",
+    "tag": "Lesen",
+    "priceMin": 12,
+    "priceLabel": "12-15",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "lesen"
+    ],
+    "url": "https://www.amazon.de/dp/B0F339B925?tag=fuendig-21"
+  },
+  {
+    "emoji": "📚",
+    "title": "VTIGER Klemm-Buchlicht (USB)",
+    "tag": "Lesen",
+    "priceMin": 10,
+    "priceLabel": "10-15",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "lesen"
+    ],
+    "url": "https://www.amazon.de/dp/B0DJXXYC72?tag=fuendig-21"
+  },
+  {
+    "emoji": "🎧",
+    "title": "soundcore by Anker Q11i On-Ear-Kopfhörer",
+    "tag": "Musik",
+    "priceMin": 30,
+    "priceLabel": "30-40",
+    "age": [
+      "teen",
+      "jung",
+      "erwachsen"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "musik"
+    ],
+    "url": "https://www.amazon.de/dp/B0DJW5G283?tag=fuendig-21"
+  },
+  {
+    "emoji": "🎧",
+    "title": "soundcore Select 4 Go Bluetooth-Lautsprecher",
+    "tag": "Musik",
     "priceMin": 18,
     "priceLabel": "18-25",
     "age": [
@@ -401,351 +780,16 @@ const PRODUCTS = [
       "divers"
     ],
     "tags": [
-      "kochen"
+      "musik"
     ],
-    "url": "#"
-  },
-  {
-    "emoji": "🍳",
-    "title": "Gewürzregal drehbar",
-    "tag": "Kochen",
-    "priceMin": 20,
-    "priceLabel": "20-35",
-    "age": [
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "kochen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🍳",
-    "title": "Sushi-Making-Set",
-    "tag": "Kochen",
-    "priceMin": 20,
-    "priceLabel": "20-30",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "kochen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🍳",
-    "title": "Elektrischer Milchaufschäumer",
-    "tag": "Kochen",
-    "priceMin": 15,
-    "priceLabel": "15-25",
-    "age": [
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "kochen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🍳",
-    "title": "Waffeleisen Herzform",
-    "tag": "Kochen",
-    "priceMin": 20,
-    "priceLabel": "20-30",
-    "age": [
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "kochen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Streetwear-Cap verstellbar",
-    "tag": "Mode",
-    "priceMin": 15,
-    "priceLabel": "15-25",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Retro-Sneaker",
-    "tag": "Mode",
-    "priceMin": 50,
-    "priceLabel": "50-100",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Umhängetasche Canvas",
-    "tag": "Mode",
-    "priceMin": 20,
-    "priceLabel": "20-40",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Statement-Halskette",
-    "tag": "Mode",
-    "priceMin": 15,
-    "priceLabel": "15-30",
-    "age": [
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "w"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Ledergürtel klassisch",
-    "tag": "Mode",
-    "priceMin": 20,
-    "priceLabel": "20-35",
-    "age": [
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "m"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Oversize-Hoodie",
-    "tag": "Mode",
-    "priceMin": 30,
-    "priceLabel": "30-50",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "👕",
-    "title": "Sonnenbrille Retro-Style",
-    "tag": "Mode",
-    "priceMin": 15,
-    "priceLabel": "15-30",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "📚",
-    "title": "Fantasy-Bestseller-Trilogie",
-    "tag": "Lesen",
-    "priceMin": 20,
-    "priceLabel": "20-30",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "lesen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "📚",
-    "title": "Notizbuch mit Goldschnitt",
-    "tag": "Lesen",
-    "priceMin": 10,
-    "priceLabel": "10-20",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "lesen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "📚",
-    "title": "E-Reader Einsteigermodell",
-    "tag": "Lesen",
-    "priceMin": 80,
-    "priceLabel": "80-130",
-    "age": [
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "lesen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "📚",
-    "title": "Lesezeichen-Set Metall",
-    "tag": "Lesen",
-    "priceMin": 8,
-    "priceLabel": "8-15",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "lesen"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "📚",
-    "title": "Buchlicht klemmbar",
-    "tag": "Lesen",
-    "priceMin": 10,
-    "priceLabel": "10-18",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "lesen"
-    ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0DHBTCKV2?tag=fuendig-21"
   },
   {
     "emoji": "🎧",
-    "title": "On-Ear Kopfhörer",
+    "title": "Novation Launchkey Mini MK3 (MIDI-Keyboard)",
     "tag": "Musik",
-    "priceMin": 40,
-    "priceLabel": "40-90",
+    "priceMin": 95,
+    "priceLabel": "95-100",
     "age": [
       "teen",
       "jung",
@@ -760,58 +804,14 @@ const PRODUCTS = [
     "tags": [
       "musik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07WJZCPT3?tag=fuendig-21"
   },
   {
     "emoji": "🎧",
-    "title": "Mini-Bluetooth-Lautsprecher",
+    "title": "Vinyl: Beatles – Abbey Road (50th Anniversary)",
     "tag": "Musik",
-    "priceMin": 20,
-    "priceLabel": "20-45",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "musik"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🎧",
-    "title": "Mini-MIDI-Keyboard",
-    "tag": "Musik",
-    "priceMin": 45,
-    "priceLabel": "45-70",
-    "age": [
-      "teen",
-      "jung",
-      "erwachsen"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "musik"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🎧",
-    "title": "Vinyl-Schallplatte Klassiker",
-    "tag": "Musik",
-    "priceMin": 20,
-    "priceLabel": "20-35",
+    "priceMin": 25,
+    "priceLabel": "25-30",
     "age": [
       "jung",
       "erwachsen"
@@ -825,14 +825,14 @@ const PRODUCTS = [
     "tags": [
       "musik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07VNS48HD?tag=fuendig-21"
   },
   {
     "emoji": "🎧",
-    "title": "Ukulele Einsteiger",
+    "title": "EASTROCK Sopran-Ukulele Anfänger-Set",
     "tag": "Musik",
-    "priceMin": 30,
-    "priceLabel": "30-50",
+    "priceMin": 65,
+    "priceLabel": "65-75",
     "age": [
       "kind",
       "teen",
@@ -847,14 +847,14 @@ const PRODUCTS = [
     "tags": [
       "musik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07SDCLVTY?tag=fuendig-21"
   },
   {
     "emoji": "🎧",
-    "title": "Plattenspieler-Reinigungsset",
+    "title": "SPINCARE 5-in-1 Schallplatten-Reinigungsset",
     "tag": "Musik",
-    "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceMin": 20,
+    "priceLabel": "20-25",
     "age": [
       "jung",
       "erwachsen"
@@ -868,14 +868,14 @@ const PRODUCTS = [
     "tags": [
       "musik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07RZTPX5G?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
-    "title": "Fitness-Tracker",
+    "title": "Xiaomi Smart Band 10 (Fitness-Tracker)",
     "tag": "Technik",
-    "priceMin": 30,
-    "priceLabel": "30-60",
+    "priceMin": 45,
+    "priceLabel": "45-50",
     "age": [
       "jung",
       "erwachsen"
@@ -889,14 +889,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0DYF7HLQ2?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
-    "title": "Powerbank 10.000mAh",
+    "title": "Magnetische Powerbank 10.000 mAh (22,5 W)",
     "tag": "Technik",
-    "priceMin": 15,
-    "priceLabel": "15-30",
+    "priceMin": 25,
+    "priceLabel": "25-30",
     "age": [
       "teen",
       "jung",
@@ -911,14 +911,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0FQNHJ7C8?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
-    "title": "Webcam HD für Streaming",
+    "title": "EMEET C100 Webcam 1080p",
     "tag": "Technik",
     "priceMin": 30,
-    "priceLabel": "30-60",
+    "priceLabel": "30-35",
     "age": [
       "teen",
       "jung"
@@ -932,14 +932,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0GTYQDSN3?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
-    "title": "Smart-Steckdose",
+    "title": "TP-Link Tapo P110 Smart-Steckdose (WLAN)",
     "tag": "Technik",
-    "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceMin": 20,
+    "priceLabel": "20-25",
     "age": [
       "jung",
       "erwachsen"
@@ -953,14 +953,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0DZHMG4FV?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
-    "title": "Handyhalterung Auto",
+    "title": "Magnetische Handyhalterung Auto (MagSafe)",
     "tag": "Technik",
-    "priceMin": 10,
-    "priceLabel": "10-20",
+    "priceMin": 20,
+    "priceLabel": "20-25",
     "age": [
       "jung",
       "erwachsen"
@@ -974,7 +974,7 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0GHJ3Q56C?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
@@ -999,10 +999,10 @@ const PRODUCTS = [
   },
   {
     "emoji": "⌚",
-    "title": "Ladekabel-Set 3in1",
+    "title": "Aioneus 3-in-1 Universal-Ladekabel",
     "tag": "Technik",
-    "priceMin": 10,
-    "priceLabel": "10-18",
+    "priceMin": 5,
+    "priceLabel": "5-12",
     "age": [
       "teen",
       "jung",
@@ -1017,14 +1017,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0F1TQT7ZS?tag=fuendig-21"
   },
   {
     "emoji": "💄",
-    "title": "Naturkosmetik-Geschenkset",
+    "title": "Naturkosmetik-Geschenkset (Gesichts-/Lippenpflege)",
     "tag": "Beauty",
-    "priceMin": 25,
-    "priceLabel": "25-45",
+    "priceMin": 30,
+    "priceLabel": "30-35",
     "age": [
       "teen",
       "jung",
@@ -1036,14 +1036,14 @@ const PRODUCTS = [
     "tags": [
       "beauty"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0GHN9M9R8?tag=fuendig-21"
   },
   {
     "emoji": "💄",
-    "title": "Gesichtsroller Jade",
+    "title": "BAIMEI Jade Roller & Gua Sha Set",
     "tag": "Beauty",
     "priceMin": 10,
-    "priceLabel": "10-20",
+    "priceLabel": "10-15",
     "age": [
       "jung",
       "erwachsen"
@@ -1054,14 +1054,14 @@ const PRODUCTS = [
     "tags": [
       "beauty"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07WWC3T9Q?tag=fuendig-21"
   },
   {
     "emoji": "💄",
-    "title": "Parfum-Set Miniaturen",
+    "title": "„So…?\" Parfum-Geschenkset (Miniaturen)",
     "tag": "Beauty",
-    "priceMin": 30,
-    "priceLabel": "30-50",
+    "priceMin": 25,
+    "priceLabel": "25-35",
     "age": [
       "jung",
       "erwachsen"
@@ -1075,14 +1075,14 @@ const PRODUCTS = [
     "tags": [
       "beauty"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B09J5D7C59?tag=fuendig-21"
   },
   {
     "emoji": "💄",
-    "title": "Bartpflege-Set",
+    "title": "Bartpflege-Set für Männer (Geschenkbox)",
     "tag": "Beauty",
-    "priceMin": 20,
-    "priceLabel": "20-35",
+    "priceMin": 18,
+    "priceLabel": "18-25",
     "age": [
       "jung",
       "erwachsen"
@@ -1093,14 +1093,14 @@ const PRODUCTS = [
     "tags": [
       "beauty"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B08GYDSD72?tag=fuendig-21"
   },
   {
     "emoji": "💄",
-    "title": "Haarstyling-Tool",
+    "title": "Bellissima B26 Haarglätter (Keramik)",
     "tag": "Beauty",
-    "priceMin": 30,
-    "priceLabel": "30-60",
+    "priceMin": 45,
+    "priceLabel": "45-50",
     "age": [
       "teen",
       "jung"
@@ -1111,14 +1111,14 @@ const PRODUCTS = [
     "tags": [
       "beauty"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B072MSQDQG?tag=fuendig-21"
   },
   {
     "emoji": "💄",
-    "title": "Maniküre-Set Reise",
+    "title": "ZWILLING Maniküre-Set (Komplett, Etui)",
     "tag": "Beauty",
-    "priceMin": 12,
-    "priceLabel": "12-20",
+    "priceMin": 70,
+    "priceLabel": "70-80",
     "age": [
       "teen",
       "jung",
@@ -1133,14 +1133,14 @@ const PRODUCTS = [
     "tags": [
       "beauty"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B01LX8ZN70?tag=fuendig-21"
   },
   {
     "emoji": "🧸",
-    "title": "Bau- und Konstruktionsset",
+    "title": "LEGO DUPLO Brick Box 10913 (Bausteine)",
     "tag": "Spielzeug",
-    "priceMin": 20,
-    "priceLabel": "20-40",
+    "priceMin": 25,
+    "priceLabel": "25-40",
     "age": [
       "kind"
     ],
@@ -1153,14 +1153,14 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07WJJF8PB?tag=fuendig-21"
   },
   {
     "emoji": "🧸",
-    "title": "Brettspiel Familienklassiker",
+    "title": "Hasbro Monopoly Classic (Brettspiel)",
     "tag": "Spielzeug",
-    "priceMin": 20,
-    "priceLabel": "20-35",
+    "priceMin": 35,
+    "priceLabel": "35-40",
     "age": [
       "kind",
       "teen"
@@ -1174,14 +1174,14 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0746Q6YCK?tag=fuendig-21"
   },
   {
     "emoji": "🧸",
-    "title": "Kreativ-Bastelset",
+    "title": "PlayMais Classic 2000 (Kreativ-Bastelset)",
     "tag": "Spielzeug",
-    "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceMin": 18,
+    "priceLabel": "18-22",
     "age": [
       "kind"
     ],
@@ -1194,14 +1194,14 @@ const PRODUCTS = [
     "tags": [
       "kochen"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0DW99LRKH?tag=fuendig-21"
   },
   {
     "emoji": "🧸",
-    "title": "Fernbau-gesteuertes Auto",
+    "title": "Carrera RC Mario Kart (ferngesteuertes Auto)",
     "tag": "Spielzeug",
-    "priceMin": 25,
-    "priceLabel": "25-50",
+    "priceMin": 35,
+    "priceLabel": "35-40",
     "age": [
       "kind"
     ],
@@ -1214,14 +1214,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0CVRLBFRR?tag=fuendig-21"
   },
   {
     "emoji": "🧸",
-    "title": "Plüschtier Premium",
+    "title": "TigerHart Plüsch-Tintenfisch 86 cm",
     "tag": "Spielzeug",
-    "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceMin": 35,
+    "priceLabel": "35-40",
     "age": [
       "kind"
     ],
@@ -1234,14 +1234,14 @@ const PRODUCTS = [
     "tags": [
       "mode"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B07D6YZDWK?tag=fuendig-21"
   },
   {
     "emoji": "🏠",
-    "title": "Duftkerzen-Set",
+    "title": "Duftkerzen-Geschenkset",
     "tag": "Zuhause",
     "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceLabel": "15-20",
     "age": [
       "jung",
       "erwachsen"
@@ -1255,14 +1255,14 @@ const PRODUCTS = [
     "tags": [
       "kochen"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0DCJD5W4G?tag=fuendig-21"
   },
   {
     "emoji": "🏠",
-    "title": "Pflanzen-Starterset",
+    "title": "valeaf BIO Microgreens Anzucht-Set",
     "tag": "Zuhause",
-    "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceMin": 10,
+    "priceLabel": "10-15",
     "age": [
       "jung",
       "erwachsen"
@@ -1276,14 +1276,14 @@ const PRODUCTS = [
     "tags": [
       "kochen"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0B64CPQGF?tag=fuendig-21"
   },
   {
     "emoji": "🏠",
-    "title": "Kuscheldecke Sherpa",
+    "title": "heimtexland Sherpa-Kuscheldecke",
     "tag": "Zuhause",
     "priceMin": 20,
-    "priceLabel": "20-35",
+    "priceLabel": "20-25",
     "age": [
       "teen",
       "jung",
@@ -1298,56 +1298,56 @@ const PRODUCTS = [
     "tags": [
       "mode"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B08MLCN9TR?tag=fuendig-21"
   },
   {
     "emoji": "🏠",
-    "title": "Poster-Set Retro",
+    "title": "Aesthetic Poster-Set (7 Bilder)",
     "tag": "Zuhause",
-    "priceMin": 10,
-    "priceLabel": "10-20",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "mode"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🏠",
-    "title": "LED-Lichterkette Zimmer",
-    "tag": "Zuhause",
-    "priceMin": 10,
-    "priceLabel": "10-20",
-    "age": [
-      "teen",
-      "jung"
-    ],
-    "gender": [
-      "alle",
-      "m",
-      "w",
-      "divers"
-    ],
-    "tags": [
-      "technik"
-    ],
-    "url": "#"
-  },
-  {
-    "emoji": "🧳",
-    "title": "Kulturbeutel Reise-Set",
-    "tag": "Reisen",
     "priceMin": 15,
-    "priceLabel": "15-25",
+    "priceLabel": "15-20",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "mode"
+    ],
+    "url": "https://www.amazon.de/dp/B09RQXLLBN?tag=fuendig-21"
+  },
+  {
+    "emoji": "🏠",
+    "title": "WISD LED-Lichterkette 13 m (warmweiß)",
+    "tag": "Zuhause",
+    "priceMin": 25,
+    "priceLabel": "25-30",
+    "age": [
+      "teen",
+      "jung"
+    ],
+    "gender": [
+      "alle",
+      "m",
+      "w",
+      "divers"
+    ],
+    "tags": [
+      "technik"
+    ],
+    "url": "https://www.amazon.de/dp/B07D25XBWD?tag=fuendig-21"
+  },
+  {
+    "emoji": "🧳",
+    "title": "Grupo Erik Kulturbeutel (hängend)",
+    "tag": "Reisen",
+    "priceMin": 18,
+    "priceLabel": "18-25",
     "age": [
       "jung",
       "erwachsen"
@@ -1361,14 +1361,14 @@ const PRODUCTS = [
     "tags": [
       "mode"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0D4DJVBKW?tag=fuendig-21"
   },
   {
     "emoji": "🧳",
-    "title": "Nackenkissen Reise",
+    "title": "Nackenkissen Memory Foam (mit Ohrstöpseln)",
     "tag": "Reisen",
-    "priceMin": 10,
-    "priceLabel": "10-18",
+    "priceMin": 18,
+    "priceLabel": "18-20",
     "age": [
       "jung",
       "erwachsen"
@@ -1382,14 +1382,14 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0GXFDDFYD?tag=fuendig-21"
   },
   {
     "emoji": "🧳",
-    "title": "Kofferanhänger Set",
+    "title": "Gepäckanhänger 2er-Set",
     "tag": "Reisen",
-    "priceMin": 8,
-    "priceLabel": "8-15",
+    "priceMin": 7,
+    "priceLabel": "7-10",
     "age": [
       "jung",
       "erwachsen"
@@ -1403,6 +1403,6 @@ const PRODUCTS = [
     "tags": [
       "mode"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0CBTV9782?tag=fuendig-21"
   }
 ];
