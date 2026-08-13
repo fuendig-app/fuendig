@@ -1,6 +1,6 @@
 // Automatisch erzeugt aus geschenkefinder_produktliste.xlsx
 // NICHT von Hand bearbeiten - stattdessen die Excel aendern und excel_zu_products.py neu ausfuehren.
-// Partner-Tag: deintag-21  |  Produkte: 67
+// Partner-Tag: fuendig-21  |  Produkte: 67
 const PRODUCTS = [
   {
     "emoji": "🎮",
@@ -25,7 +25,7 @@ const PRODUCTS = [
   },
   {
     "emoji": "🎮",
-    "title": "Gaming-Headset mit Mikrofon",
+    "title": "JBL Quantum 360 kabelloses Gaming-Headset",
     "tag": "Gaming",
     "priceMin": 25,
     "priceLabel": "25-60",
@@ -42,7 +42,7 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0D8QJRBV3?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
@@ -109,7 +109,7 @@ const PRODUCTS = [
   },
   {
     "emoji": "🎮",
-    "title": "RGB-Tastatur",
+    "title": "SteelSeries Apex 3 TKL Gaming-Tastatur (RGB, QWERTZ)",
     "tag": "Gaming",
     "priceMin": 35,
     "priceLabel": "35-70",
@@ -126,7 +126,7 @@ const PRODUCTS = [
     "tags": [
       "gaming"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B09FQ98HRT?tag=fuendig-21"
   },
   {
     "emoji": "🎮",
@@ -978,7 +978,7 @@ const PRODUCTS = [
   },
   {
     "emoji": "⌚",
-    "title": "Bluetooth-Tracker (Schlüsselfinder)",
+    "title": "Apple AirTag (2. Generation) – Schlüsselfinder",
     "tag": "Technik",
     "priceMin": 20,
     "priceLabel": "20-30",
@@ -995,7 +995,7 @@ const PRODUCTS = [
     "tags": [
       "technik"
     ],
-    "url": "#"
+    "url": "https://www.amazon.de/dp/B0GJTCB2QM?tag=fuendig-21"
   },
   {
     "emoji": "⌚",
